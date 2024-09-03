@@ -1,1 +1,1 @@
-zhangtao25/canyon:main
+gitlab/gitlab-ce:latest
